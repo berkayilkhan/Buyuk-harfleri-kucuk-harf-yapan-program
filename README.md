@@ -1,1 +1,1 @@
-# Buyuk-harfleri-kucuk-harf-yapan-program
+# Buyuk harfleri kucuk harf yapan program
